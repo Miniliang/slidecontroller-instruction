@@ -1,0 +1,223 @@
+h1 {
+color: #868686;
+font-family: "Lato";
+font-size: 45px;
+float: down;
+}
+
+.a{
+text-decoration: none;
+color:#5C5C5C;
+margin-right: 79px;
+}
+
+.a.thick {
+ font-weight: bold;
+}
+
+ul{
+list-style-type: none;
+}
+
+
+.topnav-left{
+float: left;
+font-weight: bold;
+}
+
+.topnav-right{
+float: right;
+}
+
+.topnav{
+font-family: "Lato";
+padding-top: 25px;
+position: fixed;
+width: 100%;
+top:0;
+padding-bottom: 35px;
+background-color: white;
+}
+
+.slogan{
+padding-top: 200px;
+height: 400px;
+width: 100%;
+padding-left: 55px;
+}
+
+
+.row1{
+display: flex;
+flex-wrap:wrap;
+max-height: 40%;
+}
+
+
+.column1{
+flex: 60%;
+max-width: 60%;
+background-size: cover;
+height: 450ox;
+}
+
+
+.column1 img{
+width:500px;
+height: 600px;
+object-fit:contain;
+margin-left: 40px;
+margin-top: 5px;
+}
+
+
+
+.column2{
+flex: 20%;
+max-width: 40%;
+text-align: center;
+margin-top: 160px;
+padding-right: 100px;
+}
+
+
+#homelink{
+margin-left: 89px;
+font-weight: bold;
+color: #F7AF39;
+}
+
+
+
+#topleftcolumn{
+max-width: 60%;
+}
+
+
+hr.rounded {
+}
+
+*{-webkit-font-smoothing: antialiased;}
+
+#icon{
+max-height: 46px;
+max-width: 43px;
+position: absolute;
+top: 14px; left: 35px;
+}
+
+#video1{
+position: static;
+}
+
+#video2{
+padding-top: 0px;
+
+}
+
+#slogan2{
+color: #878484;
+font-size: 18px;
+}
+
+
+button{
+text-decoration: none;
+background-color: #F7AF39;
+color: white;
+padding: 10px;
+margin-right: 70px;
+border: 0px ;
+outline: 0px;
+border-radius:4px;
+}
+
+#b{
+text-decoration: none;
+background-color: #F7AF39;
+color: white;
+}
+
+p{
+color: #868686;
+font-family: "Lato";
+font-size: 20px;
+padding: 0px;
+text-align: left;
+margin-left: 0px;
+line-height: 1.5em;
+}
+
+.title{
+font-size: 30px
+}
+
+
+video{
+pointer-event: none;
+}
+
+.column3{
+flex: 40%;
+max-width: 50%;
+background-size: cover;
+height: 350ox;
+margin-left: 90px;
+}
+
+.column4{
+flex: 40%;
+max-width: 50%;
+background-size: cover;
+height: 350ox;
+text-align: left;
+}
+
+#title2{
+margin-left: 90px;
+}
+
+#paragraph2{
+margin-left:90px;
+}
+
+#video3{
+margin-top:0px;
+
+}
+
+#lastcolumn{
+max-width: 50%;
+}
+
+
+
+#slogan3{
+padding-top: 200px;
+}
+
+#img2{
+width: 340px;
+height: 470x;
+margin-top: 150px;
+margin-left: 600px;
+}
+
+#contact{
+wdith: 400;
+height: 350px;
+position: absolute;
+top: 200px;
+left: 200px;
+}
+
+.Ctitle{
+position: absolute;
+left: 800px;
+bottom: 460px;
+font-size: 25px;
+
+
+
+
+
